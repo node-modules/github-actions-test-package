@@ -1,0 +1,19 @@
+{
+  "name": "github-actions-test-package",
+  "version": "1.0.0",
+  "description": "github-actions-test-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-modules/github-actions-test-package.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-modules/github-actions-test-package/issues"
+  },
+  "homepage": "https://github.com/node-modules/github-actions-test-package#readme"
+}
