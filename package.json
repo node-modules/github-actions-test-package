@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/node-modules/github-actions-test-package/issues"
   },
-  "homepage": "https://github.com/node-modules/github-actions-test-package#readme"
+  "homepage": "https://github.com/node-modules/github-actions-test-package#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
